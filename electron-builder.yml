@@ -1,0 +1,19 @@
+appId: com.example.nextron
+productName: Gym Tracker
+copyright: Copyright © 2025 Amin Arriaga
+directories:
+  output: dist
+  buildResources: resources
+extraResources:
+  - from: ./api
+    to: ./api
+    filter: [
+      "**/*",
+      "!*db.sqlite3"
+    ]
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
