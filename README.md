@@ -116,6 +116,8 @@ If you have any questions or need further assistance, feel free to reach out:
 - Email: aminlorenzo.14@gmail.com
 - GitHub: [arriagaamin](https://github.com/arriagaamin)
 
+- Name: Jesus Palma
+
 ---
 
 Thank you for using Gym Tracker!
